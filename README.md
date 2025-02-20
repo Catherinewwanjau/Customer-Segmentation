@@ -35,7 +35,7 @@ The dataset contains customer attributes such as:
 * Random Forest Classifier
 * Gradient Boosting Classifier
 * Neural Network
-* 
+ 
 4. Model Evaluation
 * Confusion Matrix: Analyzing correct and incorrect predictions
 * Classification Report: Precision, Recall, and F1-score evaluation
@@ -51,3 +51,16 @@ The dataset contains customer attributes such as:
 * Businesses should develop targeted marketing strategies based on customer segments.
 * Further data collection, including purchasing history and online engagement, can improve segmentation accuracy.
 * Deploying the model within a CRM system can provide real-time insights for decision-making.
+
+# Technologies Used
+* Python
+* Pandas, NumPy (Data Processing)
+* Matplotlib, Seaborn (Data Visualization)
+* Scikit-learn (Machine Learning Models)
+
+# Future Improvements
+* Incorporating deep learning techniques
+* Experimenting with clustering algorithms such as K-Means
+* Enhancing feature engineering with real-time customer data
+
+
